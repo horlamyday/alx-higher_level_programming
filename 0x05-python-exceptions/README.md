@@ -1,5 +1,4 @@
-# 0x05-python-exceptions
-## Requirements
+by horlamyda
 ### General
 Allowed editors: vi, vim, emacs
 
